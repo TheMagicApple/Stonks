@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stonks/static/css/main.073c9b0a.css",
+    "main.js": "/Stonks/static/js/main.b48ae37d.js",
+    "static/js/787.76bb3b99.chunk.js": "/Stonks/static/js/787.76bb3b99.chunk.js",
+    "static/media/logo.svg": "/Stonks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Stonks/index.html",
+    "main.073c9b0a.css.map": "/Stonks/static/css/main.073c9b0a.css.map",
+    "main.b48ae37d.js.map": "/Stonks/static/js/main.b48ae37d.js.map",
+    "787.76bb3b99.chunk.js.map": "/Stonks/static/js/787.76bb3b99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b48ae37d.js"
+  ]
+}
